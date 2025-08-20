@@ -19,6 +19,5 @@ Um jogo interativo em que o jogador deve adivinhar o número secreto gerado auto
 - **HTML5**
 - **CSS**
 - **JavaScript**
-
 ---
 
